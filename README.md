@@ -6,3 +6,6 @@
 
 # GitHub Pages:
 [ссылка] https://polinapinchuk.github.io/russian-travel/
+
+# Технологии:
+Flexbox и Grid Layout.

@@ -1,6 +1,6 @@
-.place__website{
-    grid-row: 1;
-    grid-column: 2;
+.place__website {
+    grid-row    : 1;
+    grid-column : 2;
     justify-self: start;
-    align-self: flex-end;
+    align-self  : flex-end;
 }
