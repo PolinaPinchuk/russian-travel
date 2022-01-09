@@ -4,6 +4,7 @@
     width          : 77px;
     height         : 28px;
     justify-content: space-between;
+    list-style     : none;
 }
 
 @media screen and (max-width: 320px) {
