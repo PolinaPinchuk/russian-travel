@@ -1,19 +1,19 @@
 .header__lang-link {
-    width          : 30px;
-    margin         : 0 0 0 18px;
-    font-family    : 'Inter', Arial, sans-serif;
-    font-style     : normal;
-    font-weight    : normal;
-    font-size      : 24px;
-    line-height    : 28px;
-    color          : #FFFFFF;
+    width: 30px;
+    margin: 0 0 0 18px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
 @media screen and (max-width: 320px) {
     .header__lang-link {
-        width      : 22px;
-        font-size  : 18px;
+        width: 22px;
+        font-size: 18px;
         line-height: 20px;
     }
 }

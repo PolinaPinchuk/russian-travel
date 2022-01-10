@@ -1,12 +1,12 @@
 .footer__copyright {
-    width      : 186px;
+    width: 186px;
     font-family: 'Inter', Arial, sans-serif;
-    font-style : normal;
+    font-style: normal;
     font-weight: normal;
-    font-size  : 14px;
+    font-size: 14px;
     line-height: 16px;
-    color      : #FFFFFF;
-    text-align : right;
+    color: #FFFFFF;
+    text-align: right;
 }
 
 @media screen and (max-width: 320px) {
