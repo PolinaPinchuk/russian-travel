@@ -9,6 +9,12 @@
     margin-right: auto;
 }
 
+@media screen and (max-width: 1184px) {
+    .intro {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 1024px) {
     .intro {
         padding: 92px 286px 92px 48px;
@@ -18,13 +24,13 @@
 @media screen and (max-width: 768px) {
     .intro {
         padding: 88px 24px 88px 24px;
-        max-width: 720px;
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 320px) {
     .intro {
         padding: 64px 16px 64px 16px;
-        max-width: 288px;
+        width: 100%;
     }
 }

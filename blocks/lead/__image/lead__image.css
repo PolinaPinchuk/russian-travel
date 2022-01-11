@@ -6,9 +6,15 @@
     box-sizing: border-box;
 }
 
+@media screen and (max-width: 1184px) {
+    .lead__image {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 1024px) {
     .lead__image {
-        height: 580px;
+        width: 100%;
     }
 }
 
