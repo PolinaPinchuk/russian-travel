@@ -2,8 +2,8 @@
     display: grid;
     justify-items: center;
     max-width: 1184px;
-    grid-template-columns: repeat(4, 1fr); 
-    grid-template-rows: repeat(3, 1fr); 
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     gap: 16px;
     padding: 0 48px 92px 48px;
     margin-left: auto;

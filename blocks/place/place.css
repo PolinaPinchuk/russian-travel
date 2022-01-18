@@ -1,10 +1,10 @@
 .place {
-    display: grid; 
-    grid-template-columns: repeat(2, 1fr); 
-    grid-template-rows: repeat(2, auto); 
-    column-gap: 40px; 
-    row-gap: 48px; 
-    padding-bottom: 92px; 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    column-gap: 40px;
+    row-gap: 48px;
+    padding-bottom: 92px;
     box-sizing: border-box;
 }
 
