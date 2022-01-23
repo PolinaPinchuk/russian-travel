@@ -4,19 +4,19 @@
     flex-direction: column;
     max-width: 984px;
     padding: 56px 0 0 0;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
+        max-width: 928px;
         padding: 48px 0 0 0;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .lead {
-        padding: 0;
+        width: 100%;
     }
 }

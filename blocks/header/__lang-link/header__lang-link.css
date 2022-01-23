@@ -10,6 +10,11 @@
     text-decoration: none;
 }
 
+.header__lang-link {
+    opacity: 0.8;
+    transition: .8s;
+}
+
 @media screen and (max-width: 320px) {
     .header__lang-link {
         font-size: 18px;

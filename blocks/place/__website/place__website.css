@@ -4,3 +4,12 @@
     justify-self: start;
     align-self: flex-end;
 }
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        grid-row: 3;
+        grid-column: 1;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
